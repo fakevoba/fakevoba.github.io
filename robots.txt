@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://fakevoba.github.io/sitemap/sitemap_index.fakevoba
+Sitemap: https://fakevoba.github.io/HuE/sitemap_index.fakevoba
+Sitemap: https://fakevoba.github.io/HNY/sitemap_index.fakevoba
+Sitemap: https://fakevoba.github.io/yJW/sitemap_index.fakevoba
+Sitemap: https://fakevoba.github.io/Vtg/sitemap_index.fakevoba
+Sitemap: https://fakevoba.github.io/pRt/sitemap_index.fakevoba
+Sitemap: https://fakevoba.github.io/nMu/sitemap_index.fakevoba
+Sitemap: https://fakevoba.github.io/BGe/sitemap_index.fakevoba
+Sitemap: https://fakevoba.github.io/dci/sitemap_index.fakevoba
+Sitemap: https://fakevoba.github.io/HRZ/sitemap_index.fakevoba
+Sitemap: https://fakevoba.github.io/TGQ/sitemap_index.fakevoba
+Sitemap: https://fakevoba.github.io/sNd/sitemap_index.fakevoba
+Sitemap: https://fakevoba.github.io/kFP/sitemap_index.fakevoba
+Sitemap: https://fakevoba.github.io/njF/sitemap_index.fakevoba
+Sitemap: https://fakevoba.github.io/eTm/sitemap_index.fakevoba
+Sitemap: https://fakevoba.github.io/wZC/sitemap_index.fakevoba
+Sitemap: https://fakevoba.github.io/uIe/sitemap_index.fakevoba
+Sitemap: https://fakevoba.github.io/Pfg/sitemap_index.fakevoba
+Sitemap: https://fakevoba.github.io/ZHD/sitemap_index.fakevoba
+Sitemap: https://fakevoba.github.io/YcI/sitemap_index.fakevoba
+Sitemap: https://fakevoba.github.io/FJI/sitemap_index.fakevoba
